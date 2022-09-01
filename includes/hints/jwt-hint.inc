@@ -97,7 +97,7 @@ The data in the payload is application dependent, but often contains some standa
 </p>
 
 <code>
-	New Token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vbXV0aWxsaWRhZS5sb2NhbCIsImF1ZCI6Imh0dHA6Ly9tdXRpbGxpZGFlLmxvY2FsIiwiaWF0IjoxNjE0Nzg0MTc2LCJleHAiOjE2MTQ3ODU5NzYsInVzZXJpZCI6IjEifQ.kiTnwqecZE3XJP6I2frMKiDnI10Ajb0gThUFWX2s4tw
+	New Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI3IiwiZXhwIjoxNjYyMDQ3ODUyfQ.TuQHI4N0rYEQi8FmxpSCRTNyopoij4Asyx8tsWC60js
 
 	Result: {"cid":"1","username":"admin","password":"adminpass","mysignature":"g0t r00t?","is_admin":"TRUE","firstname":"System","lastname":"Administrator"}
 </code>
